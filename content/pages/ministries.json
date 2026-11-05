@@ -1,0 +1,24 @@
+{
+  "title": "Ministries",
+  "sections": [
+    {
+      "heading": "Ministries",
+      "image": "/images/Duck-ai-image-2026-11-05-03-42(2).jpeg",
+      "_template": "hero"
+    },
+    {
+      "heading": "Stuff we do",
+      "columns": "2",
+      "displayMode": "selected",
+      "ministryItems": [
+        {
+          "ministry": "content/ministries/Kids.json"
+        },
+        {
+          "ministry": "content/ministries/Outreach.json"
+        }
+      ],
+      "_template": "ministryGrid"
+    }
+  ]
+}

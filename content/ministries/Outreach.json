@@ -1,0 +1,15 @@
+{
+  "title": "Outreach",
+  "description": "We want you to be miserable too",
+  "image": "/images/Duck-ai-image-2026-11-05-03-42(1).jpeg",
+  "isActive": true,
+  "sections": [
+    {
+      "eyebrow": "Sharing is despairing",
+      "heading": "Outreach",
+      "body": "We want you to be miserable too",
+      "image": "/images/Duck-ai-image-2026-11-05-03-42(1).jpeg",
+      "_template": "hero"
+    }
+  ]
+}

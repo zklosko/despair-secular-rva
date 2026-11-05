@@ -1,0 +1,71 @@
+{
+  "title": "Home",
+  "sections": [
+    {
+      "eyebrow": "Lower your expectations. Feel at home.",
+      "heading": "Go away. We're in dispair.",
+      "body": "Come as you are. Sit quietly, join in, or slip out early. We won’t ask you to explain your face.",
+      "image": "/images/vitaly-gariev-nB1bo5ZXl48-unsplash.jpg",
+      "imageAlt": "Ugh",
+      "primaryButtonText": "Plan Your Visit",
+      "primaryButtonLink": "/visit",
+      "secondaryButtonText": "Learn More",
+      "secondaryButtonLink": "/about",
+      "_template": "hero"
+    },
+    {
+      "heading": "A place to belong. More or less.",
+      "description": "For the weary, the wondering, and anyone who’s had enough of being told to “stay positive.” Despair offers a quiet place to gather, a cup of coffee that’s technically warm, and the comfort of not having to pretend everything’s fine.\n\nNo pressure. No grand promises. Just people, a place to sit, and whatever happens next.",
+      "buttonText": "Plan a visit",
+      "buttonLink": "/visit",
+      "style": "primary",
+      "_template": "callToAction"
+    },
+    {
+      "eyebrow": "Bleh.",
+      "heading": "Teachings",
+      "sermon": {
+        "title": "Listen to me!",
+        "speaker": {
+          "name": "Darth Vader"
+        },
+        "series": {
+          "title": ""
+        }
+      },
+      "buttonText": "Watch more",
+      "buttonLink": "/watch",
+      "_template": "featuredSermon"
+    },
+    {
+      "heading": "Locations",
+      "locations": [
+        {
+          "name": "Middle of nowhere",
+          "state": "Denial",
+          "zip": "00000",
+          "description": "You'll know it when you find it",
+          "isActive": true,
+          "serviceTimes": [
+            {
+              "time": "9:06 AM",
+              "label": "906"
+            },
+            {
+              "time": "11:18 AM",
+              "label": "11:18"
+            }
+          ]
+        }
+      ],
+      "_template": "serviceTimes"
+    },
+    {
+      "heading": "Come as you are",
+      "description": "Then leave slightly less alone.",
+      "buttonText": "Plan Your Visit",
+      "buttonLink": "/visit",
+      "_template": "closingInvitation"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Visit",
+  "sections": [
+    {
+      "heading": "We hate you but you should still come here",
+      "_template": "hero"
+    },
+    {
+      "content": "Thinking of stopping by? That’s understandable. We’re here for the curious, the weary, and anyone who wants somewhere to sit quietly without being asked to “look on the bright side.”\n\nWhen: Sundays at 10:00 a.m.\n\nWhere: 12 Gloom Street, Somewhere\n\nWhat to expect: A calm room, questionable coffee, and a short gathering with no pressure to participate, believe, or appear cheerful.\n\nCome as you are. Leave whenever you like. No RSVP required—and no one will make you introduce yourself to the room.\n",
+      "background": "",
+      "_template": "richTextContent"
+    }
+  ]
+}

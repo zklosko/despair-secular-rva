@@ -1,0 +1,17 @@
+{
+  "title": "Kids",
+  "description": "We hate them too",
+  "group": "Families",
+  "image": "/images/Duck-ai-image-2026-11-05-03-46.jpeg",
+  "isActive": true,
+  "sections": [
+    {
+      "eyebrow": "Misery at a young age",
+      "heading": "Kids Ministry",
+      "body": "Why can't they grow up faster? Ugh.",
+      "image": "/images/Duck-ai-image-2026-11-05-03-46.jpeg",
+      "imageAlt": "They're not actually happy. This is AI.",
+      "_template": "hero"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "title": "About Hope Church",
+  "sections": [
+    {
+      "eyebrow": "Ugh.",
+      "heading": "About us",
+      "body": "Like we said, we're in despair. This is a place for misrable people.",
+      "image": "/images/Duck-ai-image-2026-11-05-03-42.jpeg",
+      "_template": "imageText"
+    },
+    {
+      "content": "# Find meaning nowhere.\n\nWelcome to Despair, a gathering place for the tired, the doubtful, and anyone who’s ever looked for a silver lining and found a dented spoon.\n\nHere, we don’t promise salvation, purpose, or a better tomorrow. We offer a quiet room, lukewarm coffee, and the comfort of knowing nobody expects you to have it all figured out.\n\nOur beliefs\n\n* <span style=\"color: #CC4141\">Hope is optional.</span>\n* <span style=\"color: #CC4141\">Questions are encouraged; answers are under review.</span>\n* <span style=\"color: #CC4141\">You are enough. Probably.</span>\n* <span style=\"color: #F97316\">There’s no such thing as rock bottom—just another basement.</span>\n\n## Join us\n\nGather with us every Sunday at 10:00, or whenever you feel like it. No dress code. No pressure to sing. No pressure to feel anything at all.\n\nDespair: Lower your expectations. Feel right at home.\n",
+      "background": "dark",
+      "_template": "richTextContent"
+    }
+  ]
+}
