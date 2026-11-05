@@ -38,7 +38,7 @@ jobs:
         run: bun run build
 
       - name: Add .nojekyll file
-        run: touch web/out/.nojekyll
+        run: touch out/.nojekyll
 
       - name: Upload website
         uses: actions/upload-pages-artifact@v4
