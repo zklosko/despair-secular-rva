@@ -16,6 +16,7 @@ export default defineConfig({
   build: {
     outputFolder: "admin",
     publicFolder: "public",
+    basePath: "despair-secular-rva"
   },
 
   media: {
