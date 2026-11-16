@@ -66,6 +66,20 @@
       "buttonText": "Plan Your Visit",
       "buttonLink": "/visit",
       "_template": "closingInvitation"
+    },
+    {
+      "eyebrow": "Come Join Us",
+      "heading": "Registration open",
+      "description": "Come join us for snowflake smash",
+      "items": [
+        {
+          "title": "sdkfdlkj",
+          "description": "sdkjhfdslkhsdf",
+          "linkText": "Stuff",
+          "link": "/visit"
+        }
+      ],
+      "_template": "nextSteps"
     }
   ]
 }
